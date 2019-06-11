@@ -16,4 +16,7 @@ ying-fang.me
 ![image](https://wx3.sinaimg.cn/mw690/9e540cd1ly1g3wl8w3q9kj20vz07faah.jpg)
 - 沁人心.集：沁人心；诗歌；大学生创作
 ![image](https://wx3.sinaimg.cn/mw690/9e540cd1ly1g3wl8w5td1j20w307374k.jpg)
-- 这操作有利于用户在bing和百度通过关键词搜索、浏览到我的网站,增加阅读量和点击量
+- 网上资料说用户在bing和百度通过关键词搜索、浏览到网站,增加阅读量和点击量，但目前并没有对自己网站有初步的效果
+#### 申请熊掌ID，验证成功后绑定网站
+![image](https://wx4.sinaimg.cn/mw690/9e540cd1gy1g3x1ppwbnrj211t0bygmi.jpg)
+- 熊掌号基于百度强大的AI能力，增强了内容到服务的连接，更多搜索流量将会向熊掌号倾斜，扩大了内容展现机会和形式，在帮助站长拓展流量的同时，拉动内容消费升级，极大提高内容转化率。但目前对我的网站没有很明显的效果。
